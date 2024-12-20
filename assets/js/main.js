@@ -51,8 +51,8 @@
 
     $(function () {
         element.typed({
-            strings: ["Data Scientist .", "Data Analyst.","Python .","R .","SQL .","Machine Learning .","Artificial Intelligence .","Deep Learning .","Tableau .","Power BI .","Business Analyst ."],
-            typeSpeed: 100,
+            strings: ["ReactJs.", "Javascript.","NextJs ."],
+            typeSpeed: 300,
             loop: true,
             autoplay: true,
         });
